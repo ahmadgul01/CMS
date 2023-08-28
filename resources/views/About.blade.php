@@ -8,7 +8,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     @push('bb')
-    <title>About</title>
+    <title>About - Page</title>
     @endpush
 </head>
 <body>
